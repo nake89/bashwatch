@@ -1,6 +1,6 @@
 # Bashwatch
 
-Enables otherwise inaccessible container to receive commands.
+Enables otherwise inaccessible container to receive commands, if access to the filesystem.
 
 ## Usage
 
